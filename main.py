@@ -1,1 +1,1 @@
-print("Photocampus")
+print("PhotoCampus")
