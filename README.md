@@ -33,6 +33,18 @@ PhotoCampus es un emprendimiento dedicado a la fotografía profesional, y en est
 
 ------------------------------------------------------------------------------------------------------------------------
 
+## ❌ Solución de un conflicto
+
+Se genera un conflicto entre ramas al momento de integar las funcionalidades, debido a que se olvida traer lo que ya está en remoto
+
+![alt text](image-1.png)
+
+y se soluciona haciendo un pull y un add . para añadir los cambios en el Stage Area, luego realizamos un merge para fusionar las ramas y que se solucione este conflicto
+
+![alt text](image-2.png)
+
+------------------------------------------------------------------------------------------------------------------------
+
 ## 📥 Instalación
 
 
@@ -101,3 +113,4 @@ Agradecemos a todas las personas que contribuyeron y apoyaron en el desarrollo d
 
 https://github.com/KarolainReyes
 https://github.com/Andre07g
+ 
