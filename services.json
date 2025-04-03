@@ -1,5 +1,8 @@
-[{"Nombre_paquete":"Boda Maria y Carlos",
-  "Precio":15,
-  "Evento":"Boda",
-  "Duracion":2}]
-  
+[
+    {
+        "Nombre_paquete": "Boda Maria y Carlos",
+        "Precio": 1,
+        "Evento": "assa",
+        "Duracion": 2.0
+    }
+]
